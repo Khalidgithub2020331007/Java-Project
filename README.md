@@ -80,7 +80,7 @@ This game is perfect for children to:
 ### 👤 Author
 
 Created by a passionate Java developer to make math fun for kids!
-📧 [[https://github.com/Khalidgithub2020331007/Hall_Management_Web]]
+###### 📧 [[Sheikh Khalid Azad]()https://github.com/Khalidgithub2020331007/]
 ### ⚖️ License
 
 This project is released with no license — feel free to use and modify for educational or personal purposes.
